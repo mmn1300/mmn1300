@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AmazonWebService-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
 </div>
 
 
