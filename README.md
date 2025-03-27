@@ -43,9 +43,20 @@
 <h3 align="center">Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/VScode-000000?style=flat-square"/>&nbsp
-  <img src="https://img.shields.io/badge/IntellijIDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntellijIDEA&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>&nbsp
 </div>
+
+
+<h3 align="center">Studying</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AmazonWebService-232F3E?style=flat-square&logo=AmazonWebService&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp
+</div>
+
+
 
 
 <!--
