@@ -12,7 +12,7 @@
 </div>
 
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Server Framework</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp
