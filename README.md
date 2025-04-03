@@ -29,6 +29,12 @@
 </div>
 
 
+<h3 align="center">Frontend</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
+</div>
+
+
 <h3 align="center">Container</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp
@@ -51,7 +57,6 @@
 
 <h3 align="center">Studying</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AmazonWebService-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>&nbsp
